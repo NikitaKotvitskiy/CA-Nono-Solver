@@ -25,7 +25,7 @@ $(BIN1): $(OBJ1)
 	$(CC) $(CFLAGS) -o $@ $^
 
 $(BIN2): $(OBJ2)
-	$(CC) $(CFLAGS) -o $@ $^
+	$(CC) $(CFLAGS) -o $@ $^ -lm
 
 # Pattern rule to compile .c to .o
 %.o: %.c
