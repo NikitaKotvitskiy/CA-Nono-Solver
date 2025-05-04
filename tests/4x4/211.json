@@ -1,0 +1,36 @@
+{
+    "width": 4,
+    "height": 4,
+    "vertical_blocks_lengths": [
+        [
+            2
+        ],
+        [
+            1
+        ],
+        [
+            1
+        ],
+        [
+            1,
+            2
+        ]
+    ],
+    "horizontal_blocks_lengths": [
+        [
+            1,
+            1
+        ],
+        [
+            1
+        ],
+        [
+            1,
+            1
+        ],
+        [
+            1,
+            1
+        ]
+    ]
+}
